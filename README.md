@@ -32,3 +32,12 @@ cd plant-disease-detection
 
 
 pip install -r requirements.txt
+
+plant-disease-detection/
+├── app.py                   # Streamlit application script
+├── model.py                 # Script to train the AlexNet model
+├── plant_disease_classification_model.h5  # Trained model
+├── plantvillage dataset/    # Dataset directory
+├── disease.json             # JSON file containing disease details
+├── requirements.txt         # Python dependencies
+├── README.md                # Project documentation
