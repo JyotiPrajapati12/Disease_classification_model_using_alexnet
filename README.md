@@ -29,9 +29,12 @@ This project implements a web-based application for plant disease detection and 
 ```bash
 git clone https://github.com/yourusername/plant-disease-detection.git
 cd plant-disease-detection
-
+```
 
 pip install -r requirements.txt
+
+## Project Structure
+```bash
 
 plant-disease-detection/
 ├── app.py                   # Streamlit application script
