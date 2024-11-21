@@ -23,7 +23,7 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropou
 
 #kaggle_credentails = json.load(open("C:\Users\93in\plant-disease\kaggle.json"))
 # Dataset Path
-base_dir = 'C:/Users/93in/plant-disease/plantvillage dataset/plantvillage dataset/color'
+base_dir = '/plant-disease/plantvillage dataset/plantvillage dataset/color'
 # Image Parameters
 img_size = 224
 batch_size = 32
